@@ -12,14 +12,14 @@
 .input-range {
 }
 .count {
-    font-size: 5vh;
+    font-size: 40px;
 }
 .generate {
-    height: 5vh;
-    width: 10vw;
-    font-size: 2.5vh;
+    height: 35px;
+    width: 150px;
+    font-size: 20px;
 }
 .nicklist {
-    font-size: 2.5vh;
+    font-size: 20px;
     list-style:disc;
 }
